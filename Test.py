@@ -1,0 +1,3 @@
+### Do NOT USE FOR LICENSE TESTING ### 
+### SIMPLE HELLO WORLD PROGRAM 
+print "Hello world"
